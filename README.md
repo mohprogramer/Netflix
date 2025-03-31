@@ -17,17 +17,7 @@ Dynamic Banners: Display featured movies
 
 Navigation Bar: Easily explore content
 
-🚀 Technologies
 
-React (18.2.0): Component-based UI framework
-
-Axios: Fetches movie data from an API
-
-React-YouTube: Integrates YouTube trailers
-
-Movie-Trailer: Finds movie trailers dynamically
-
-CSS Modules: Provides modular styling
 
 📖 Installation & Usage
 
